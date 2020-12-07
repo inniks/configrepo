@@ -1,4 +1,4 @@
-example.property: "Dev Profile Property"
+example.property: "Prod Profile Property"
 spring.jpa.database: "Oracle"
 spring.datasource.platform:  "Oracle"
 spring.jpa.show-sql: "true"
